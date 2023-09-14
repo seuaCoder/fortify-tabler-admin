@@ -35,7 +35,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Akukoder\\FortifyTablerAdmin\\": "src"
+            "seuacoder\\FortifyTablerAdmin\\": "src"
         }
     },
     "scripts": {
