@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php": "^7.3|^8.1",
+        "php": "^7.3",
         "arcanedev/laravel-settings": "*",
         "illuminate/support": "*",
         "intervention/image": "*",
@@ -50,7 +50,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Akukoder\\FortifyTablerAdmin\\FortifyTablerAdminServiceProvider"
+                "seuacoder\\FortifyTablerAdmin\\FortifyTablerAdminServiceProvider"
             ]
         }
     },
