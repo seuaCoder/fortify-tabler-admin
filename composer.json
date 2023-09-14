@@ -20,9 +20,9 @@
     ],
     "require": {
         "php": "^7.3|^8.1",
-        "arcanedev/laravel-settings": "^8.1|^9.0",
+        "arcanedev/laravel-settings": "*",
         "illuminate/support": "*",
-        "intervention/image": "^2.5.1",
+        "intervention/image": "*",
         "laravel/sanctum": "*",
         "zacksmash/fortify-ui": "*",
         "ext-json": "*"
